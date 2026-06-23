@@ -61,11 +61,3 @@ The provenance model is stored in a document-oriented structure:
   - Parent-child relationships between steps
   - Full traceability of transformations
 
-See `/schema/` for detailed schema definitions.
-
----
-
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
